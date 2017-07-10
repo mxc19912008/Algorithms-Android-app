@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Algorithms</string>
+    <string name="dialog_theme_selection_title">Pick a Theme:</string>
+    <string name="menu_entry_switch_theme">Switch Highlighting Theme</string>
+	<string name="enable_zooming">Enable Zooming</string>
+	<string name="show_line_numbers">Show Line Numbers</string>
+</resources>
