@@ -18,5 +18,8 @@ You can download the apk *[in the release section](https://github.com/mxc1991200
 
 ![](https://github.com/mxc19912008/readme_pics/blob/master/image/alg_app.png)
 
+### License
+
+Lisenced under *[MIT License] (https://opensource.org/licenses/MIT)
 
 
