@@ -20,6 +20,6 @@ You can download the apk *[in the release section](https://github.com/mxc1991200
 
 ### License
 
-Lisenced under *[MIT License](https://opensource.org/licenses/MIT)
+Lisenced under [MIT License](https://opensource.org/licenses/MIT)
 
 
